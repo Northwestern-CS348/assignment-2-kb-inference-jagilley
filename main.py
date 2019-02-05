@@ -195,4 +195,5 @@ def pprint_support(fact_rule, indent):
 
 
 if __name__ == '__main__':
+    print("*** BEGINNING OF NEW RUN "*9)
     unittest.main()
